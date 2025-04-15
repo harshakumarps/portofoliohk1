@@ -1,8 +1,5 @@
 # Hello everyone! 👋 I'm HARSHA KUMAR P S
 
-<div align="center">
-  <img src="https://github.com/harshakumarps/portfoliohk/blob/main/img/portfolio/IMG_20240731_173937.jpg" alt="Harsha Kumar P S" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #0e76a8;"/>
-</div>
 
 ## About Me
 
